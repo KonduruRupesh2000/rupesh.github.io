@@ -250,7 +250,7 @@
       }
       else {
         $.ajax({
-          url: "https://formspree.io/f/mgepdnbo", 
+          url: "https://formspree.io/f/xzbyblgv", 
           method: "POST",
           data: {
             name: name,
